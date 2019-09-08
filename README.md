@@ -1,4 +1,4 @@
-# Team Bossmen - Project Walkmeout
+# Team Bossmen - Project Walkmeoff
 ## Team Members:
 * Warihi Tawhiwhirangi (**Team Leader**)
 * Jesse Morten 
